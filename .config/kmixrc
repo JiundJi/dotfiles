@@ -1,0 +1,58 @@
+[Configure]
+Height 1440=404
+Width 3440=612
+
+[DialogSelectMaster]
+Height 1080=306
+Height 1440=306
+Width 1920=274
+Width 3440=274
+
+[Global]
+ConfigVersion=3
+DefaultCardOnStart=PulseAudio.Playback_Devices.1.default
+MasterMixer=PulseAudio::Playback_Devices:1
+MasterMixerDevice=alsa_output.pci-0000_00_1b.0.analog-stereo
+MixerIgnoreExpression=Modem
+Position=2619,598
+Size=1021,643
+Visible=false
+
+[Profiles]
+PulseAudio::Capture_Devices:1=PulseAudio.Capture_Devices.1.default
+PulseAudio::Capture_Streams:1=PulseAudio.Capture_Streams.1.default
+PulseAudio::Playback_Devices:1=PulseAudio.Playback_Devices.1.default
+PulseAudio::Playback_Streams:1=PulseAudio.Playback_Streams.1.default
+
+[View.PulseAudio.Capture_Devices.1.default.PulseAudio::Capture_Devices:1.bluez_source.E8_AB_FA_2E_26_7D.handsfree_head_unit]
+Split=false
+
+[View.PulseAudio.Capture_Streams.1.default.PulseAudio::Capture_Streams:1.stream:19]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.alsa_output.pci-0000_00_1b.0.analog-stereo]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.bluez_sink.E8_AB_FA_2E_26_7D.a2dp_sink]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.bluez_sink.E8_AB_FA_2E_26_7D.handsfree_head_unit]
+Split=false
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.ladspa_output.mbeq_1197.mbeq]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.restore:sink-input-by-media-role:event]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:0]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:10]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:14]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:160]
+Split=false

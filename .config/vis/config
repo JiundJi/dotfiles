@@ -1,0 +1,4 @@
+audio.stereo.enabled=false
+colors.scheme=rainbow,catpuccin
+visualizer.fps=60
+

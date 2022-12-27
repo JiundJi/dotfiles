@@ -1,0 +1,35 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "Abyss",
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDelete": false,
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.quietSync": true,
+    "better-comments.highlightPlainText": true,
+    "gitlens.defaultDateFormat": null,
+    "gitlens.defaultTimeFormat": null,
+    "git.confirmSync": false,
+    "workbench.editor.enablePreview": false,
+    "git.autofetch": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "terminal.integrated.fontSize": 16,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 2,
+    "window.menuBarVisibility": "toggle"
+}
